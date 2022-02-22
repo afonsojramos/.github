@@ -36,7 +36,7 @@ body:
     attributes:
       label: ℹ System Info
       description: Please provide system details such as OS and project version.
-      render: markdown
+      render: Markdown
     validations:
       required: true
 
